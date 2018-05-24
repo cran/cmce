@@ -1,0 +1,13 @@
+271d56652253a9ebd9346aeb0c1bbe2a *DESCRIPTION
+c9c8cee3b10fc37b11516c7c9c851088 *NAMESPACE
+0fa6f83df967104e9594cda5140b292c *R/cal.r
+8e14841636a0defda7bbcf74910ca9dd *R/calfuns.r
+1a07e67b55b21fdc630b23bac8b22334 *R/gpfuns.r
+847087105b039ce12db4f964ce9ec758 *build/partial.rdb
+127ca7c9d621ee66b8ff06d26caae97f *man/calibrate.Rd
+c0edf7e5c13282a677c8b012b53da7f2 *man/cmce-package.Rd
+833feaf9e86bd2abff70f2c515b31ea3 *man/getranges.Rd
+71e0b57be55f01808550b02f405158a1 *man/gp.realize.Rd
+33e4cadaea90ac107ef65f2f0272f7aa *man/makedistlist.Rd
+469ab30559f77e4aa3eb097bd14b10e0 *man/scaledesign.Rd
+e464d18e15895bc0850049068063653c *man/unscalemat.Rd

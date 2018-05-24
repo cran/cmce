@@ -1,0 +1,2 @@
+export(calibrate,getranges,scaledesign,makedistlist,unscalemat,gp.realize)
+importFrom("stats", "rgamma", "rnorm", "runif")
